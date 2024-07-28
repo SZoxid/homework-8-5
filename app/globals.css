@@ -24,6 +24,11 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    font-size: 28px;
+}
+
+.layout{
+  border: 1px solid currentColor;
 }
 
 @layer utilities {
